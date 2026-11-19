@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="the rabbit hole mark">
+  <rect width="100" height="100" rx="22" fill="#2a1f14"/>
+  <g transform="translate(10.999999999999998 10.999999999999998) scale(0.78)">
+  <defs>
+    <clipPath id="above"><path d="M0 0H100V72H0Z"/><ellipse cx="50" cy="72" rx="36" ry="13"/></clipPath>
+  </defs>
+  <ellipse cx="50" cy="72" rx="42" ry="17" fill="#0d0a07" stroke="#4a3825" stroke-width="3"/>
+  <g clip-path="url(#above)" transform="translate(0 2)">
+    <path fill="#7f9c52" d="M50 37 C47 24 40 13 28 8 C31 22 37 33 46 39Z"/>
+    <path fill="#7f9c52" d="M50 37 C50 24 50 12 50 3 C56 12 56 26 52 38Z"/>
+    <path fill="#7f9c52" d="M50 37 C53 24 60 13 72 8 C69 22 63 33 54 39Z"/>
+    <path fill="#e27a2b" d="M28 40 Q50 28 72 40 Q68 68 50 95 Q32 68 28 40Z"/>
+    <path d="M33 52 H47 M56 62 H66" stroke="#b95a17" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+  </g>
+</g>
+</svg>
